@@ -1,4 +1,4 @@
-# IT Help Desk Ticketing System (Python CLI Project)
+# IT Help Desk Ticketing System (Python Project)
 
 A simple console-based Python project to simulate an internal IT help desk. Users can create, view, and update support tickets.
 
