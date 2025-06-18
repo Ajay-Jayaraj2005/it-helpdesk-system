@@ -86,7 +86,7 @@ def update_ticket():
             save_tickets(tickets)
             return
 
-    print("❌ Ticket not found.")
+    print(" Ticket not found.")
 
 # Main menu to interact with the system
 def menu():
